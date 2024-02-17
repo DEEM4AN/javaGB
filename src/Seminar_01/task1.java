@@ -1,4 +1,6 @@
-public class seminar01 {
+package seminar01;
+
+public class Seminar01 {
     public static void main(String[] args) {
         System.out.printf("");
     }
